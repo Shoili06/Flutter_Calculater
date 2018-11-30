@@ -1,2 +1,8 @@
-# Flutter_Calculater
-Trying to make a calcu in flutter
+# fab
+
+A new Flutter project.
+
+## Getting Started
+
+For help getting started with Flutter, view our online
+[documentation](https://flutter.io/).
